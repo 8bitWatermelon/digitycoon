@@ -12,7 +12,7 @@ const config: Config = {
       center: true,
       padding: '2rem',
       screens: {
-        'xs': '300px',
+        xs: '380px',
         '2xl': '1400px',
       },
     },
